@@ -13,8 +13,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himangshu190&layout=compact&theme=radical)
 
 #### Connect with me
-- [LinkedIn]([https://www.linkedin.com/in/himangshu190](https://www.linkedin.com/in/himangshu-sarma-4b2a01303/))
-- [Twitter]([https://twitter.com/himangshu190](https://x.com/Himangs0609323))
+- [LinkedIn]((https://www.linkedin.com/in/himangshu-sarma-4b2a01303/))
+- [Twitter]((https://x.com/Himangs0609323))
 
 <!---
 himangshu190/himangshu190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
