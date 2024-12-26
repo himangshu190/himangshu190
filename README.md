@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Himangshu!
 
 #### About Me
-- 🔭 I’m currently working on an ecommerce project .
-- 🌱 I’m currently learning new technologies and improving my coding skills
-- 👯 I’m looking to collaborate on open source projects
+- 🔭 I’m currently working on an unknown😂 project .
+- 🌱 currently learning Rust
+- 👯 looking to collaborate on open source projects
 - 📫 How to reach me: [himangshu190@github.com](mailto:himangshu190@github.com)
 
 #### GitHub Stats
