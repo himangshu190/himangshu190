@@ -4,7 +4,6 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on an exciting **Rust project** (details coming soon!)
 - 🌱 Learning **Rust** & exploring **system-level programming**
 - 👯 Looking to collaborate on **open-source projects**
 - 📫 Reach me at: [![Email Badge](https://img.shields.io/badge/Email-himangshu31%40yahoo.com-red?style=flat-square&logo=gmail)](mailto:himangshu31@yahoo.com)
