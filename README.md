@@ -1,6 +1,3 @@
-<!-- Banner -->
-![GitHub Banner](https://unsplash.com/photos/Cx1GdOSXU-U/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzU0NjYwODU2fA&force=true) <!-- Replace with your own banner or Unsplash direct image link -->
-
 <h1 align="center">Hi 👋, I'm Himangshu Sarma</h1>
 <h3 align="center">🚀 Developer | Open-Source Enthusiast | Lifelong Learner</h3>
 
